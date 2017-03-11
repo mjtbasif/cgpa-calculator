@@ -62,6 +62,8 @@ namespace cgpa
         {
             r1 = r2 = r3 = r4 = r5 = r6 = 0;
             r[0] = r[1] = r[2] = r[3] = r[4] = r[5] = 0;
+            fr[0] = fr[1] = fr[2] = fr[3] = fr[4] = fr[5] = 0;
+            cre[0] = cre[1] = cre[2] = cre[3] = cre[4] = cre[5] = 0;
             ce = 0;
             fres = 0;
             ans = 0;
